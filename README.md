@@ -1,7 +1,7 @@
 # Eat-Da-Burger - A Node, Express, Handlebars, MySQL App
 
 
-[Click here to demo the site]()
+[Click here to demo the site on heroku](https://melperez19-burgerapp.herokuapp.com/)
 
 Overview
 
